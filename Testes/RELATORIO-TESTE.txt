@@ -92,3 +92,14 @@ ERRO DE COMPILAÇÃO.
 - The method calculaPena(JulgamentoPrisioneiro.Resposta, JulgamentoPrisioneiro.Resposta) in the type JulgamentoPrisioneiro is not applicable for the arguments (String, String)	TesteJulgamento.java	/JulgamentoPrisioneiro/src	line 66	Java Problem
 
 -----------------------------------------------------------------------------------------------------------------
+
+CORREÇÃO CLASSE JAVA:
+
+INCLUSÃO DE ENUM:
+
+enum Resposta {
+		DELACAO;
+	}
+
+
+_________________________________________________________________________________________________________________
